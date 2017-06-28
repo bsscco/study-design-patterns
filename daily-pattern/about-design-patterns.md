@@ -30,4 +30,4 @@ comment<br>
 <br>
 
 기울임체<br>
-interface
+인터페이스
