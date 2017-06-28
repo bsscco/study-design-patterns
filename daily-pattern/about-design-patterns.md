@@ -17,16 +17,28 @@ Design Patterns Elements of reusable Object-Oriented Software. 라는 책으로�
 <br>
 
 ### 관계도 읽는 법
-점선 꽉찬 화살표<br>
+꽉찬 화살표 점선<br>
 instantiate<br>
 <br>
 
-실선 빈 화살표<br>
+꽉찬 화살표 실선<br>
+has a, references<br>
+<br>
+
+꽉찬 화살표 실선 다이아몬드<br>
+has many, aggregation<br>
+<br>
+
+빈 화살표 실선<br>
 extends<br>
 <br>
 
-실선<br>
-comment<br>
+빈 화살표 점선<br>
+implements<br>
+<br>
+
+점선<br>
+pseudo code<br>
 <br>
 
 기울임체<br>
