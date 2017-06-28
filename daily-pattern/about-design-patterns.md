@@ -9,9 +9,9 @@ Design Patterns Elements of reusable Object-Oriented Software. 라는 책으로�
 <br>
 
 ### 이 책은 어떻게 구성되어있나요?
-크게 두 파트로 나뉩니다.
-- 1,2 장 : 디자인 패턴이 무엇인지, 어떻게 우리 객치지향 설계에 적용할 수 있는지?
-- 3, 4, 5장 : 디자인 패턴 목록
+크게 두 파트로 나뉩니다.<br>
+1,2장은 디자인 패턴이 무엇인지, 어떻게 객치지향 설계에 적용할 수 있는지를 알려줍니다.<br>
+3, 4, 5장은 디자인 패턴 목록입니다.
 <br>
 <br>
 
@@ -20,4 +20,11 @@ Design Patterns Elements of reusable Object-Oriented Software. 라는 책으로�
 - 문제
 - 해결책
 - 이 패턴을 적용함으로써 주어지는 결과 또는 대가
+<br>
+<br>
+
+### 관계도 읽는 법
+
+#### 점선 꽉찬 화살표
+
 
