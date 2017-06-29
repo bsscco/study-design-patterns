@@ -3,17 +3,11 @@ Design Patterns Elements of reusable Object-Oriented Software. 라는 책으로�
 <br>
 
 ### 디자인 패턴이 무엇인가요?
-디자인 패턴은 객체지향 프로그램 설계에서 부딪히는 공통된 문제들에 대해 해법을 제시합니다.<br>
+디자인 패턴은 객체지향 프로그램 설계 시 부딪히는 공통된 문제들에 대해 해법을 제시합니다.<br>
 <br>
 
-### 이 책은 어떻게 구성되어있나요?
-크게 두 파트로 나뉩니다.<br>
-1,2장은 디자인 패턴이 무엇인지, 어떻게 객치지향 설계에 적용할 수 있는지를 알려줍니다.<br>
-3, 4, 5장은 디자인 패턴 목록입니다.<br>
-<br>
-
-### 패턴 1개의 구성 요소 
-패턴 이름, 문제, 해결책, 이 패턴을 적용함으로써 주어지는 결과 또는 대가<br>
+### 이 책에서 패턴에 대해 설명하는 방법
+패턴 이름, 문제, 해결책, 이 패턴을 적용함으로써 주어지는 결과 또는 대가를 차례대로 설명합니다.<br>
 <br>
 
 ### 관계도 읽는 법
@@ -22,19 +16,19 @@ instantiate<br>
 <br>
 
 꽉찬 화살표 실선<br>
-has a, references<br>
+reference<br>
 <br>
 
 꽉찬 화살표 실선 다이아몬드<br>
-has many, aggregation<br>
+aggregation<br>
 <br>
 
 빈 화살표 실선<br>
-extends<br>
+extend<br>
 <br>
 
 빈 화살표 점선<br>
-implements<br>
+implement<br>
 <br>
 
 점선<br>
@@ -42,4 +36,4 @@ pseudo code<br>
 <br>
 
 기울임체<br>
-인터페이스
+추상 클래스 또는 인터페이스
